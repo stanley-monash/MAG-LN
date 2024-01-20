@@ -1,5 +1,5 @@
 Title (Eng): That time when I woke up and found out that I got summoned into a fantasy world [title pending]
-Title (JP): 起きたらファンタジーのセカイに召喚された
+Title (JP): 襍ｷ縺阪◆繧峨ヵ繧｡繝ｳ繧ｿ繧ｸ繝ｼ縺ｮ繧ｻ繧ｫ繧､縺ｫ蜿ｬ蝟壹＆繧後◆
 
 Description: Generally we want to create a vibe that causes the audience to feel like they are playing yet another fan game 
 but in fact this story focuses heavily on the MC and is more of a existential crisis game that is suppose to make the players
@@ -18,63 +18,87 @@ Scene 1
 Scene 2 
 	Hears unfamiliar sounds (maou chan)
 	Open eyes and gets shocked, maou chan from the MAG club is there 
-	The A-chan briefs MC that they are in short supply of managers for their talents,
-	and the company is in trouble & so are the girls,
-	so they resorted to using magic (could be magic from some of the hololive talents) to summon the chosen one
-	who is said to be the multiverse's best manager
+	She explains where he is [kingdom of Hansom] and she introduces herself (a barmaid from the Mansoh Adventurer's Guild [MAG])
+	MC is confused but follows her back to the guild
 
 Scene 3
-	MC refuses at first but starts to think about how his previous life is complete shite and eventually agrees
-	A-chan tours the MC around the office
+	In the guild he meets a bunch of people and they are the main 5 characters which he is to conquer 
 
 End [Jump to Id=2]
 
-========================== Meeting the Hololive members scene [Id=2] ==========================
-Scene 1, Scene 2, Scene 3, Scene 4, Scene 5 (Note: can shorten if want)
-	Main office --> NEPOLABO
-	Gaming room --> SMOK
-	Pantry --> Hachaama & ChocoSensei
-	Dance Studio --> Tokino Sora, Fubuki & Aqua
-	Vocal Room --> Suisei
+========================== Meeting the Main casts scene [Id=2] ==========================
+Scene 1, Scene 2, Scene 3
+	Kitchen --> rika
+	request counter --> Towa
+	Main area --> Asahi & yuito
 
 End [Jump to Id=3]
 
-========================== Choosing the girl to work with scene [Id=3] ==========================
+========================== Choosing the character to bond with scene [Id=3] ==========================
 Scene 1
 	A chan explains that the following girls are in dire need of a manager 
 
 Option 1
-	Minato Aqua [Jump to Id=4]
-	Usada Pekora [Jump to Id=5]
-	Natsuiro Matsuri [Jump to Id=6]
-	Hoshimachi Suisei [Jump to Id=7]
-	Tsunomaki Watame [Jump to Id=8]
+	Maou chan [Jump to Id=4]
+	Tsunomori Rika [Jump to Id=5]
+	Minami Towa [Jump to Id=6]
+	Iwasaki Asahi [Jump to Id=7]
+	Mitarai Yuito [Jump to Id=8]
+
+Note: max bonding scenes appear when reach a certain point in the game and allows MC to bond with 
+the character with the most bond points thus unlocking the kissing scene (they dont actually kiss)
+[if same points e.g. 1 pt for A, 1 pt for B we go with random picking]
 
 End [Jump to Id=9]
 
-========================== Helping Aqua scene [Id=4] ==========================
+========================== Helping Maou scene [Id=4] ==========================
+Summary: She is actually the maou from this world but after being defeated by the hero
+she reincarnated and decided to live a slow life. The MC must work along side the her as 
+the bar server & go shopping with her
+
+Max bonding scene: protect her from some drunk rough crowds
 
 End [Jump to Id=3]
 
-========================== Helping Pekora scene [Id=5] ==========================
+========================== Helping Rika scene [Id=5] ==========================
+Summary: Rika is a clumsy cook who always messes up the order (mistakenly adding sugar instead of salt),
+the MC must warm up to her & help her become a better cook by teaching her foods from his world
+
+Max bonding scene: go scavenge for ingredients protecting her from some wild animal
 
 End [Jump to Id=3]
 
-========================== Helping Matsuri scene [Id=6] ==========================
+========================== Helping Towa scene [Id=6] ==========================
+Summary: Towa is extremely bored with her job and she actually wants to be an adventurer, 
+they go shopping at the bazaar for equipment & training together
+
+Max bonding scene: They wander into a dungeon and she panics and activates a trap, MC protects her 
 
 End [Jump to Id=3]
 
-========================== Helping Suisei scene [Id=7] ==========================
+========================== Helping Asahi scene [Id=7] ==========================
+Summary: Asahi is a strong adventurer that is cold at first glance but due to his strength everyone is afraid of him,
+MC needs to gets close to asahi to melt the ice by going on quests with him & drinking with him after his hunt
+
+Max bonding scene: In order to protect the MC Asahi goes into berserk mode and loses his rationality, his party members
+backs off and runs away but MC stays by his side and calms him to revert back to his usual self
 
 End [Jump to Id=3]
 
-========================== Helping Suisei scene [Id=8] ==========================
+========================== Helping Yuito scene [Id=8] ==========================
+Summary: Being the younger step brother of Asahi he is always compared with his capable brother, so he develops a 
+inferiority complex. MC's job is to bring him out of this by going on quests together to figure out his strength &
+go shopping with him.
+
+Max bonding scene: People talks shit about him and MC covers for him and gives speech
+
 
 End [Jump to Id=3]
 
 ========================== Return to real world suddenly scene [Id=9] ==========================
 Scene 1
-	Abruptly gets transported back to another world waking up to the lecturer scolding you for napping in class
+	Abruptly gets transported back before the kiss scene (fade to black when close eyes to kiss)
+	to another world waking up to the lecturer scolding you for napping in class
 	MC goes into existential crisis and wonders if the entire thing was a dream
 	Gets out of class and goes home
 
@@ -86,15 +110,20 @@ Scene 2
 	MC wishes to go back
 
 Scene 3
-	Attempts to commit suicide to go back into the other world
+	If player choses the MC to sulk and to go back to the previous world 
+		End [Jump to Id=10]
+	Else if player choses to go out and touch grass, and does extroverted activities (going to MAG club event) 
+		End [Jump to Id=11]
 
-End [Jump to Id=10]
-
-========================== Ending scene [Id=9] ==========================
+========================== Ending scene [Id=10] ==========================
 Scene 1
 	After the MC attempts to commit suicide the game screen go black 
-	Users can slightly hear the voices of the hololive girl that they picked earlier
-	Players can wonder if he actually died or got transported
+	Users can slightly hear the voices of the person that they picked earlier	
 
 FINISH
 
+========================== Ending scene [Id=11] ==========================
+Scene 1
+	MC no longer feels the need to go back to the old world and looks at his new friends
+	and thinks to himself that the dream he had was to help him take the first step to be a normie
+FINISH

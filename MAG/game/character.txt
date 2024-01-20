@@ -1,0 +1,26 @@
+Maou chan
+	Description: barmaid at the guild
+	Gender: Female
+	Personality: Sweet, caring, kind (iyashi type)
+
+Tsunomori Rika
+	Description: Cook at the guild's kitchen
+	Gender: Female
+	Personality: Tsundere, clumsy (pon), loli ish
+
+Minami Towa
+	Description: Guild's receptionist
+	Gender: Female
+	Personality: Oneesan character
+	
+Iwasaki Asahi
+	Description: Guild's strong adventurer
+	Gender: Male
+	Personality: Kuudere type, ikemen
+
+Mitarai Yuito
+	Description: Guild's adventurer
+	Gender: Male
+	Personality: Shota character, trap?
+
+
