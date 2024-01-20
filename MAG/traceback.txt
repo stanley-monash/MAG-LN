@@ -1,0 +1,22 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/script.rpy", line 122, in script
+    sora "Ohayoooo! (o^▽^o)"
+Exception: Sayer 'sora' is not defined.
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/script.rpy", line 122, in script
+    sora "Ohayoooo! (o^▽^o)"
+  File "renpy/ast.py", line 681, in execute
+    who = eval_who(self.who, self.who_fast)
+  File "renpy/ast.py", line 574, in eval_who
+    raise Exception("Sayer '%s' is not defined." % who)
+Exception: Sayer 'sora' is not defined.
+
+Windows-10-10.0.22621
+Ren'Py 7.4.11.2266
+MAG 1.0
+Sat Jan 20 23:38:09 2024
