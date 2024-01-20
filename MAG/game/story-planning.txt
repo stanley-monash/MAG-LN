@@ -1,0 +1,100 @@
+Title (Eng): That time when I woke up and found out that I got summoned into a fantasy world [title pending]
+Title (JP): 起きたらファンタジーのセカイに召喚された
+
+Description: Generally we want to create a vibe that causes the audience to feel like they are playing yet another fan game 
+but in fact this story focuses heavily on the MC and is more of a existential crisis game that is suppose to make the players
+feel for the MC instead of just focusing on the girls
+
+
+========================== Starting scene (Introduction) [Id=1] ==========================
+Scene 1 
+	MC walks from train station to University
+	Complains about the heavy workload and his future prospect
+	Gets into class and sits down
+	Class starts
+	Teacher starts teaching and MC complains about how useless this is
+	Starts to fall asleep since class is unintersting
+
+Scene 2 
+	Hears unfamiliar sounds (maou chan)
+	Open eyes and gets shocked, maou chan from the MAG club is there 
+	The A-chan briefs MC that they are in short supply of managers for their talents,
+	and the company is in trouble & so are the girls,
+	so they resorted to using magic (could be magic from some of the hololive talents) to summon the chosen one
+	who is said to be the multiverse's best manager
+
+Scene 3
+	MC refuses at first but starts to think about how his previous life is complete shite and eventually agrees
+	A-chan tours the MC around the office
+
+End [Jump to Id=2]
+
+========================== Meeting the Hololive members scene [Id=2] ==========================
+Scene 1, Scene 2, Scene 3, Scene 4, Scene 5 (Note: can shorten if want)
+	Main office --> NEPOLABO
+	Gaming room --> SMOK
+	Pantry --> Hachaama & ChocoSensei
+	Dance Studio --> Tokino Sora, Fubuki & Aqua
+	Vocal Room --> Suisei
+
+End [Jump to Id=3]
+
+========================== Choosing the girl to work with scene [Id=3] ==========================
+Scene 1
+	A chan explains that the following girls are in dire need of a manager 
+
+Option 1
+	Minato Aqua [Jump to Id=4]
+	Usada Pekora [Jump to Id=5]
+	Natsuiro Matsuri [Jump to Id=6]
+	Hoshimachi Suisei [Jump to Id=7]
+	Tsunomaki Watame [Jump to Id=8]
+
+End [Jump to Id=9]
+
+========================== Helping Aqua scene [Id=4] ==========================
+
+End [Jump to Id=3]
+
+========================== Helping Pekora scene [Id=5] ==========================
+
+End [Jump to Id=3]
+
+========================== Helping Matsuri scene [Id=6] ==========================
+
+End [Jump to Id=3]
+
+========================== Helping Suisei scene [Id=7] ==========================
+
+End [Jump to Id=3]
+
+========================== Helping Suisei scene [Id=8] ==========================
+
+End [Jump to Id=3]
+
+========================== Return to real world suddenly scene [Id=9] ==========================
+Scene 1
+	Abruptly gets transported back to another world waking up to the lecturer scolding you for napping in class
+	MC goes into existential crisis and wonders if the entire thing was a dream
+	Gets out of class and goes home
+
+Scene 2
+	Shows how alone, depressed and empty the MC's life is 
+		--> Excessive drinking
+		--> Extreme loneliness (no friends nor family members that cares about him)
+		--> No prospect of the future
+	MC wishes to go back
+
+Scene 3
+	Attempts to commit suicide to go back into the other world
+
+End [Jump to Id=10]
+
+========================== Ending scene [Id=9] ==========================
+Scene 1
+	After the MC attempts to commit suicide the game screen go black 
+	Users can slightly hear the voices of the hololive girl that they picked earlier
+	Players can wonder if he actually died or got transported
+
+FINISH
+
