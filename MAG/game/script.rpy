@@ -46,16 +46,19 @@
         days = "Sunday"
     else: days = "error"
 
-    if day == 1:
-        date = "1th"
-    elif day == 2:
+    if day == 1 or day == 21 or day == 31:
+        date = str(day) + "st"
+    elif day == 2 or day == 22:
         date = "2nd"
     elif day == 3:
         date = "3rd"
     else:
         date = "%sth" % day
 
-# Characters
+# Side Characters
+define lecturer = Character("Lecturer")
+
+# Main Characters
 define maou = Character("Maou chan")
 define rika = Character("Tsumori Rika")
 define towa = Character("Minami Towa")
@@ -76,9 +79,9 @@ label start:
 
     "[player_name], a university student at the zenith of normalcy begins his day."
 
-    if day_str == "Mon" or "Tue" or "Wed" or "Thu" or "Fri":
+    if days == "Monday" or days == "Tuesday" or days == "Wednesday" or days == "Thursday" or days == "Friday":
         "Its [days] so [player_name] is expected to attend his classes at Donash university."
-    elif day_str == "Sat" or "Sun":
+    else:
         "Although its [days], there are still extra classes to attend at Donash university."
 
     scene bg street1 with fade
@@ -122,5 +125,54 @@ label start:
 
     mc "I swear I cannot catch a break."
 
+    mc "Ah those 3 are from my class..."
+
+    mc "Its kinda awkward I'll just pretend to be asleep"
+
+    show bg black with dissolve
+    $ renpy.pause(5, hard=False)
+    #TODO add train announcement
+    scene bg inside_train with fade
+
+    mc "Looks like I've arrived at Donash University"
+    #TODO add train opening sound 
+    #TODO add walking sound 
+
+    scene bg school_entrance with fade
+    #TODO play some bgm
+    mc "I swear Donash looks like your ordinary anime high school."
+
+    mc "But can you believe it? It's a freakin university!"
+
+    mc "Oh shit can't afford to waste any time, looks like I'm already 10 minutes late."
+
+    #TODO play running sounds
+
+    scene bg classroom with fade
+    #TODO play door opening sounds
+
+    mc "Sorry I'm late!"
+
+    show lecturer normal at right
+    
+    lecturer "You are 15 minutes late!!!"
+
+    lecturer "I don't really care if you show up to my class but I do have to follow regulations to report you if you miss more than 5 classes."
+
+    mc "Sorry I won't miss class again."
+
+    #TODO add walking and sitting down sfx
+
+    scene bg classroom_sitting with fade
+
+    lecturer "Ok sorry for the disruption class! We will be talking about Coloumb's law today."
+
+    lecturer "So Coloumb's law is actually also called the inverse square law, can anybody tell me why?"
+
+    mc "I'm falling asleep already just listening to that old hag babble on."
+
+    mc "I guess I'll take a short nap and wake up before class ends."
+
+    scene bg black with fade
 
 return
