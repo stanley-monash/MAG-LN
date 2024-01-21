@@ -2,10 +2,10 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 50: invalid syntax
-        date = f"{day}st"
-                         ^
+File "game/script.rpy", line 178: invalid syntax
+    renpy.pause(３, hard=False)
+                 ^
     
 
 Ren'Py Version: Ren'Py 7.4.11.2266
-Sun Jan 21 11:53:41 2024
+Sun Jan 21 12:27:16 2024

@@ -57,6 +57,7 @@
 
 # Side Characters
 define lecturer = Character("Lecturer")
+define unknown = Character("???")
 
 # Main Characters
 define maou = Character("Maou chan")
@@ -174,5 +175,19 @@ label start:
     mc "I guess I'll take a short nap and wake up before class ends."
 
     scene bg black with fade
+    $ renpy.pause(3, hard=False)
+
+    unknown "Hey are you ok?!"
+
+    mc "zzz"
+
+    unknown "Looks like he's still alive but the clothes he's wearing seems strange."
+
+    mc "Who the hell is disturbing my damn nap!"
+
+    scene bg forest with fade
+    show maou normal at right
+
+    unknown "!?!?!"
 
 return
